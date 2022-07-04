@@ -913,7 +913,7 @@ img {
 
 .modal-chek:checked + .checkbox-icon {
   background-color: var(--brend-color);
-  background-image: url(../images/form-icon.svg#icon-icon-check-3);
+  background-image: url(../images/icon\ check-2.svg);
   border: none;
   background-repeat: no-repeat;
   background-position: center;
